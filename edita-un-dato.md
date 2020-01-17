@@ -10,7 +10,7 @@ description: >-
 
 **2.Busca el dato:** Ubícate ****en la pestaña **"Mis Datos"** del tablero de control y da clic sobre el dato.
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 **3.Ingresa a Editar:** Da clic en el botón **"Editar"**
 
@@ -18,5 +18,5 @@ description: >-
 
 **4.Edita el metadato:** Realiza los cambios que consideres pertinentes en el metadato y da clic en el botón _**"Editar Datos"**_
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2838%29.png)
 

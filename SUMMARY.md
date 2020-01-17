@@ -16,6 +16,7 @@
 * [Configura vistas al recurso](configura-las-vistas.md)
 * [Edita un dato](edita-un-dato.md)
 * [Elimina un dato](elimina-un-dato.md)
+* [Publica información de versiones anteriores](publica-informacion-de-versiones-anteriores.md)
 * [Deja tus comentarios](deja-tus-comentarios.md)
 * [Interactúa con los datos](interactua-con-los-datos./README.md)
   * [Previsualiza los recursos](interactua-con-los-datos./previsualiza-los-recursos.md)

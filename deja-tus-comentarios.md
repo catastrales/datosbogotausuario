@@ -10,11 +10,11 @@ description: >-
 
 **2.Ubicate en la sección de comentarios:** Desplázate hacia la parte inferior del formulario, hasta encontrar la sección de comentarios.
 
-![](.gitbook/assets/image%20%28105%29.png)
+![](.gitbook/assets/image%20%28106%29.png)
 
 **3.Inicia sesión en el gestor de comentarios:** Da clic en el botón "Acceder" y luego digita: el nombre con el que te vas a identificar, tu correo electrónico y contraseña.
 
-![](.gitbook/assets/image%20%2888%29.png)
+![](.gitbook/assets/image%20%2889%29.png)
 
 {% hint style="warning" %}
 _Puedes iniciar sesión con las redes sociales \(facebook, twitter\), con el correo de gmail o registrándote en disqus._
@@ -26,7 +26,7 @@ _Puedes iniciar sesión con las redes sociales \(facebook, twitter\), con el cor
 
 **4.Acepta las condiciones de uso:** Da clic sobre las casillas y luego da clic en el botón "Aceptar".
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 {% hint style="info" %}
 _Lo comentarios son gestionados por DISQUS, tus datos serán tratados bajo las condiciones mencionadas por este servicio de alojamiento de comentarios._
@@ -34,5 +34,5 @@ _Lo comentarios son gestionados por DISQUS, tus datos serán tratados bajo las c
 
 **5.Comenta:** Escribe tu comentario en la caja de texto y luego da clic en el botón _**"Publicar como \(Tu nombre de usuario\)".**_
 
-![](.gitbook/assets/image%20%2854%29.png)
+![](.gitbook/assets/image%20%2855%29.png)
 
