@@ -18,7 +18,7 @@ description: >-
 
 **5.Finaliza:** Da clic en el botón **"Finalizar"** para que tu dato quede guardado y publicado.
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
 \*\*\*\*
 

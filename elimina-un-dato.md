@@ -11,7 +11,7 @@ description: >-
 
 **2.Busca el dato:** Ubícate ****en la pestaña **"Mis Datos"** del tablero de control y da clic sobre el dato.
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 **3.Ingresa a Editar:** Da clic en el botón **"Editar"**
 
@@ -19,7 +19,7 @@ description: >-
 
 **4.Borra el dato:** Da clic en el botón _**"Borrar"**_
 
-![](.gitbook/assets/image%20%28104%29.png)
+![](.gitbook/assets/image%20%28103%29.png)
 
 **6.Confirma tu acción:** Da clic en el botón **"Confirm"** para eliminar el dato de forma definitiva.
 

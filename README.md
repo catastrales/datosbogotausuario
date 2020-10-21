@@ -1,11 +1,11 @@
 ---
 description: >-
-  ¿Quieres adicionar nuevos datos en la plataforma de datos abiertos?¿Quieres
-  pre visualizar los datos sin descargarlos? ¿Necesitas descargar los datos?.
-  Este manual está hecho para ti.
+  En la plataforma de datos abiertos se pueden visualizar, consultar y descargar
+  los datos abiertos oficiales de la capital. Además, permite a las entidades
+  crear y actualizar sus datos.
 ---
 
-# Bienvenido a la plataforma de datos abiertos Bogotá
+# Bienvenidos a la plataforma de datos abiertos Bogotá
 
 
 

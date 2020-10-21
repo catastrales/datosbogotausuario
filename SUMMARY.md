@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenido a la plataforma de datos abiertos Bogotá](README.md)
+* [Bienvenidos a la plataforma de datos abiertos Bogotá](README.md)
 * [Inicia sesión](inicia-sesion/README.md)
   * [Primer inicio de sesión](inicia-sesion/primer-inicio-de-sesion.md)
   * [Cambia tú contraseña](inicia-sesion/cambia-tu-contrasena.md)

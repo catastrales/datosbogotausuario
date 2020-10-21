@@ -8,7 +8,7 @@ description: Puedes ver el dato de tú interés antes de realizar su descarga.
 
 **2.Ubica los recursos:** Puedes encontrar los recursos en la sección siguiente a los datos básicos del dato
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 {% hint style="success" %}
 _**Tenga en cuenta:**_ El conteo de descargas y visitas de actualizará cada hora
@@ -16,5 +16,5 @@ _**Tenga en cuenta:**_ El conteo de descargas y visitas de actualizará cada hor
 
 **3.Previsualiza el recurso:** Da clic sobre el botón **"Previsualización"** del recurso de tu preferencia.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
