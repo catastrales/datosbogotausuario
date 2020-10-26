@@ -8,11 +8,11 @@ description: >-
 
 **1.Selecciona "Iniciar sesión":** Da clic en el botón **"Iniciar sesión para entidades"**, ubicado en la parte superior derecha de la pantalla.
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../../.gitbook/assets/image%20%28126%29.png)
 
 **2. Logueate:** Digita tu usuario y contraseña, enseguida da clic en el botón **"Iniciar sesión".**
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 {% hint style="info" %}
 Al dar clic en **"Recordar mis datos"** dejas automáticamente guardado en tú navegador el usuario y contraseña.
