@@ -7,7 +7,7 @@ description: >-
 
 # Interactúa con los datos
 
-  **1.Identifica las formas de acceso a los datos:** Puedes acceder a un dato desde las opciones: barra de búsqueda, Datos, Entidades o en una de las 27 temáticas disponibles.
+ **1.Identifica las formas de acceso a los datos:** Puedes acceder a un dato desde las opciones: barra de búsqueda, Datos, Entidades o en una de las 27 temáticas disponibles.
 
 ![](../../.gitbook/assets/1.png)
 
@@ -31,7 +31,7 @@ Con el botón ![](../../.gitbook/assets/5.png)puedes ajustar el tamaño de la fu
 {% endtab %}
 
 {% tab title="Temáticas" %}
-**1.Selecciona un temática:** Da clic sobre la temática de tu interés.
+**1.Selecciona un temática:** Se puede hacer de tres formas, la primera en la pagina principal dando clic en el listado de temáticas de tu interés.
 
 ![](../../.gitbook/assets/image%20%28127%29.png)
 
@@ -39,7 +39,7 @@ Con el botón ![](../../.gitbook/assets/5.png)puedes ajustar el tamaño de la fu
 {% endtab %}
 
 {% tab title=" Entidades" %}
-**1.Ingresa a  entidad:** Da clic sobre el botón **"Entidades".**
+**1.Ingresa a  entidades:** Da clic sobre el botón **"Entidades".**
 
 ![](../../.gitbook/assets/image%20%2861%29.png)
 
@@ -70,8 +70,4 @@ aparece una lista desplegable en la que tienes la opción de organizar por búsq
  **5.Infórmate:** Conoce sobre el dato que estás consultado leyendo su descripción, descubre su licencia, última fecha de actualización, información adicional en su metadato y los recursos que tiene disponible.
 
 ![](../../.gitbook/assets/image%20%2898%29.png)
-
-
-
-
 
