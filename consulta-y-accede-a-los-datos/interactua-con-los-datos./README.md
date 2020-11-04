@@ -30,6 +30,16 @@ Con el botón ![](../../.gitbook/assets/5.png)puedes ajustar el tamaño de la fu
 ![](../../.gitbook/assets/4.png)
 {% endtab %}
 
+{% tab title="Entidades" %}
+**1.Ingresa a  entidades:** Da clic sobre el botón **"Entidades".**
+
+![](../../.gitbook/assets/8.png)
+
+ **2.Selecciona una entidad:** Da clic sobre la entidad de la cual deseas obtener los datos.
+
+![](../../.gitbook/assets/9.png)
+{% endtab %}
+
 {% tab title="Temáticas" %}
 **1.Selecciona un temática:** Se puede hacer de tres formas, la primera en la pagina principal dando clic en el listado de temáticas de tu interés.
 
