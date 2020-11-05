@@ -14,5 +14,5 @@ description: >-
 **3.Descarga el recurso:** Da clic sobre el botón **"Descargar"** del recurso de tu preferencia.​  
 
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 

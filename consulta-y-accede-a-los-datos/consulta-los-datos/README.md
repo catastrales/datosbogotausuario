@@ -9,7 +9,7 @@ description: >-
 
 **1.Reconoce el dato:** Después de realizar la búsqueda, aparecerá el listado de los datos  que fueron encontrados, cada dato tendrá su nombre, última fecha de modificación, la entidad que lo dispone, la descripción del mismo, también el número de descargas y de visitas que se han realizado de este y los diferentes formatos en que está dispuesto.
 
-![](../.gitbook/assets/23.png)
+![](../../.gitbook/assets/23.png)
 
 **2.Selecciona un dato:** Da clic sobre uno de los daos de datos**.**
 
