@@ -11,7 +11,13 @@ description: >-
 ![](../../.gitbook/assets/image%20%2870%29.png)
 
 {% hint style="info" %}
-**Tenga en cuenta: -** Frase corta que indica claramente el contenido que se encontrará en el dato. - Incluye las reglas de ortografía. - Sigue la siguiente estructura:
+**Tenga en cuenta:** 
+
+-Debe ser una frase corta que indica claramente el contenido que se encontrará en el dato. 
+
+- Incluye las reglas de ortografía.
+
+- Utiliza ****la siguiente estructura:
 
                                                 _Nombre y extensión que cubre                                     ****_
 
@@ -20,7 +26,7 @@ description: >-
                                            **Predios propiedad horizontal. Bogotá D.C**
 {% endhint %}
 
-**2.Contruye la URL:** El sistema genera automáticamente la url cuando creas el titulo. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
+**2.Construye la URL:** El sistema genera automáticamente la url cuando creas el titulo. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
 
@@ -32,9 +38,13 @@ _**Recuerda:** el nombre que pongas a la url debe ser un texto corto que identif
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-**4.Selecciona tu Entidad:** Da clic sobre la lista desplegable **"Entidad"** y selecciona tú Entidad.
+**4.Selecciona tu entidad:** Da clic sobre la lista desplegable **"Entidad"** y selecciona tú Entidad.
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
+
+{% hint style="info" %}
+Solo aparecerán en la lista las entidades en las que esta inscrito el usuario que realiza la edición de los datos.
+{% endhint %}
 
 **5.Elige la visibilidad del dato:** Da clic sobre la lista desplegable "Visibilidad" y selecciona entre "**público"** o "**privado"**. 
 

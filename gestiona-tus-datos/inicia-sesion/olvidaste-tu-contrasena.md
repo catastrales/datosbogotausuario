@@ -12,7 +12,7 @@ description: >-
 
 **2. Ingresa a ¿Olvido su contraseña?:** Da clic en el botón **"¿Olvido su contraseña?"**
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/32.png)
 
 **3. Digita tu usuario:** En el campo de texto digita el nombre de usuario que tienes asignado en la plataforma de datos abiertos y da clic en **"Restablecer contraseña".**
 

@@ -8,9 +8,9 @@ description: >-
 
 **1.Inicia sesión:** Sigue los pasos de "[Inicia sesión](https://datosbogota.gitbook.io/manual-usuario/inicia-sesion)".
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/32.png)
 
-**2. Ingresa a configuraciones:** Da clic sobre tu nombre de usuario, ubicado en la parte superior izquieda de la página.
+**2. Ingresa a configuraciones:** Da clic sobre tu nombre de usuario, ubicado en la parte superior izquierda de la página.
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
