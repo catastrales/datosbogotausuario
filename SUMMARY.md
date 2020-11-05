@@ -4,9 +4,13 @@
 
 ## Consulta y accede a los datos
 
-* [Interactúa con los datos](consulta-y-accede-a-los-datos/interactua-con-los-datos./README.md)
-  * [Previsualiza los recursos](consulta-y-accede-a-los-datos/interactua-con-los-datos./previsualiza-los-recursos.md)
-  * [Descarga los recursos](consulta-y-accede-a-los-datos/interactua-con-los-datos./descarga-los-recursos.md)
+* [Accede a los datos](consulta-y-accede-a-los-datos/accede-a-los-datos.md)
+
+---
+
+* [Consulta los datos](consulta-los-datos/README.md)
+  * [Previsualiza los recursos](consulta-los-datos/previsualiza-los-recursos.md)
+  * [Descarga los recursos](consulta-los-datos/descarga-los-recursos.md)
 
 ## Gestiona tus datos
 
