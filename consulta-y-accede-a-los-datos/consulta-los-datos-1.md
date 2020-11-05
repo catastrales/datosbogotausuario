@@ -5,7 +5,7 @@ description: >-
   actualizados?
 ---
 
-# Accede a los datos
+# consulta los datos
 
  **1.Identifica las formas de acceso a los datos:** Puedes acceder a un dato desde las opciones: barra de búsqueda, Datos, Entidades o en una de las 27 temáticas disponibles.
 
