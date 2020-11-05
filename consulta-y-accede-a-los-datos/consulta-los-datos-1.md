@@ -50,6 +50,10 @@ Aparecerá una lista desplegable en la que tienes la opción de organizar  por N
 **5.Conoce la entidad:** Encontraras una breve descripción de la entidad que escogiste y los datos que esta ha cargado.
 
 ![](../.gitbook/assets/12.png)
+
+{% hint style="info" %}
+Puedes compartir el dato en las redes sociales twitter y Facebook, dando clic sobre cualquiera de sus iconos.                                              ![](../.gitbook/assets/29.png)
+{% endhint %}
 {% endtab %}
 
 {% tab title="Temáticas" %}

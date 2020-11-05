@@ -5,9 +5,7 @@
 ## Consulta y accede a los datos
 
 * [consulta los datos](consulta-y-accede-a-los-datos/consulta-los-datos-1.md)
-* [Conoce el dato](consulta-y-accede-a-los-datos/conoce-el-dato/README.md)
-  * [Previsualiza los recursos](consulta-y-accede-a-los-datos/conoce-el-dato/previsualiza-los-recursos.md)
-  * [Descarga los recursos](consulta-y-accede-a-los-datos/conoce-el-dato/descarga-los-recursos.md)
+* [Conoce el dato](consulta-y-accede-a-los-datos/conoce-el-dato.md)
 
 ## Gestiona tus datos
 
