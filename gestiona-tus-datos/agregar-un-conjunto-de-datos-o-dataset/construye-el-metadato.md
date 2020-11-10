@@ -26,6 +26,10 @@ description: >-
                                            **Predios propiedad horizontal. Bogotá D.C**
 {% endhint %}
 
+{% hint style="info" %}
+Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras ![](../../.gitbook/assets/39.png) en un campo, debes llenarlo de forma obligatoria.
+{% endhint %}
+
 **2.Construye la URL:** El sistema genera automáticamente la url cuando creas el titulo. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
@@ -120,7 +124,9 @@ Se puede agregar la cantidad de enlaces
 
 ![](../../.gitbook/assets/image%20%28122%29.png)
 
-**18.Temática principal:** Da clic en la lista desplegable y selecciona la tema principal con el que se asocia el recurso.
+**18.Temática principal:** Da clic en la lista desplegable y selecciona la temática principal con el que se asocia el recurso.
+
+![](../../.gitbook/assets/37.png)
 
 **18.Alcance del metadato:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al metadato. 
 
@@ -134,5 +140,7 @@ Se puede agregar la cantidad de enlaces
 
 ![](../../.gitbook/assets/image%20%28142%29.png)
 
-## \*\*\*\*
+21.Agrega los recursos: Da clic en el botón para agregar los recursos que vas a disponer en datos abiertos.  
+
+![](../../.gitbook/assets/40.png)
 
