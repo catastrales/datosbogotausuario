@@ -11,7 +11,7 @@ description: >-
 ![](../../.gitbook/assets/image%20%2870%29.png)
 
 {% hint style="info" %}
-**Tenga en cuenta:** 
+**Ten en cuenta:** 
 
 -Debe ser una frase corta que indica claramente el contenido que se encontrará en el dato. 
 
@@ -51,36 +51,28 @@ Solo aparecerán en la lista las entidades en las que esta inscrito el usuario q
 ![](../../.gitbook/assets/image%20%28141%29.png)
 
 {% hint style="danger" %}
-Selecciona **"Público**" ****cuándo estés seguro de realizar la publicación de tu dato, de lo contrario deja selecciona el campo **"Privado"**
+Selecciona **"Público**" ****cuándo estés seguro de realizar la publicación de tu dato, de lo contrario deja selecciona el campo **"Privado"** y solo lo podrán ver los usuarios de la entidad que tengan una sesión en la página.
 {% endhint %}
 
-**6. Tipo de fecha:** Da clic en la lista desplegable y selecciona el tipo de fecha a que hace referencia. Como mínimo diligencie el tipo de fecha “actualización” del recurso.
+**6. Tipo de fecha:** Da clic en "Última actualización".
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/34.png)
 
     **Fecha:** Digita la fecha teniendo en cuenta el formato ****AAAA-MM-DD
 
 ![](../../.gitbook/assets/image%20%2856%29.png)
 
-**7. Forma de presentación:** Da clic en la lista desplegable y selecciona una opción**.**
+**7. Forma de presentación:** Da clic en la lista desplegable y selecciona una opción entre audio, audio digital, diagrama, diagrama digital, documento digital, documento impreso, imagen digital, imagen impresa, mapa digital mapa impreso, modelo digital, modelo impreso, objeto físico, perfil digital, perfil impreso, Tabla digital, tabla impresa, video y video digital**.**
 
 ![](../../.gitbook/assets/image%20%2843%29.png)
 
-{% hint style="info" %}
-Este campo pretende realizar una categorización del recurso conforme al medio en el que se encuentre, sea este digital o impreso \(papel\).
+{% hint style="success" %}
+Para el caso de imagen digital, imagen impresa, mapa digital y mapa impreso se habilitaran los siguientes campos:
+
+* **Para el caso de  Tipo de representación espacial:** Selecciona cuál fue el método utilizado para representar espacialmente el recurso \(raster o vector\).                           ![](../../.gitbook/assets/35.png)
+* **Resolución espacial:** Digita en la caja de texto la escala, resolución o nivel de detalle de los datos del recurso.![](../../.gitbook/assets/image%20%282%29.png)
+* **Tipo de Sistema de Referencia:** Da clic sobre la lista desplegable y da clic sobre el ****sistema de referencia utilizado.![](../../.gitbook/assets/image%20%28131%29.png)
 {% endhint %}
-
-*  **Tipo de representación espacial:** Selecciona cuál fue el método utilizado para representar                                    espacialmente el recurso.
-
-![](../../.gitbook/assets/image%20%2844%29.png)
-
-* **Resolución espacial:** Digita en la caja de texto la escala, resolución o nivel de detalle de los datos del recurso.
-
-![](../../.gitbook/assets/image%20%282%29.png)
-
-* **Tipo de Sistema de Referencia:** Da clic sobre la lista desplegable y da clic sobre el ****sistema de referencia utilizado.
-
-![](../../.gitbook/assets/image%20%28131%29.png)
 
 **8. Categoría Temática:** Da clic en la lista desplegable y selecciona el tema principal con el que se asocia el recurso.
 
@@ -98,7 +90,7 @@ Este campo pretende realizar una categorización del recurso conforme al medio e
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
-**11.Usa etiquetas:**  Destaca aspectos del contenido no proporcionados por el título. Digita una palabra en el campo de texto "Etiquetas" y digita la tecla dónde se encuentre el signo de puntuación "coma".
+**11.Usa etiquetas:**  Destaca aspectos del contenido no proporcionados por el título. Digita una palabra en el campo de texto "Etiquetas" y digita la tecla "coma" para agregar otra etiqueta.
 
 ![](../../.gitbook/assets/image%20%2893%29.png)
 
@@ -110,9 +102,11 @@ Este campo pretende realizar una categorización del recurso conforme al medio e
 
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
-**14. Enlace a otros recursos:** Pegue la URL de los recursos adicionales que puedan complementar la información suministrada
+**14. Enlace a otros recursos:** Pegue la URL de los recursos adicionales que puedan complementar la información suministrada, como por ejemplo paginas en donde se puede ver ahondar en el tema y/o documentos que lo explican, como por ejemplo el diccionario de datos, el catalogo de objetos, el reporte de calidad detallado o el  ítem geográfico.  
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/36.png)
+
+Se puede agregar la cantidad de enlaces 
 
 **15.Alcance de la calidad de los datos:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al dato. 
 
@@ -125,6 +119,8 @@ Este campo pretende realizar una categorización del recurso conforme al medio e
 **17.Distribuidor:** Da clic en la lista desplegable y selecciona la entidad responsable de distribuir el recurso.
 
 ![](../../.gitbook/assets/image%20%28122%29.png)
+
+**18.Temática principal:** Da clic en la lista desplegable y selecciona la tema principal con el que se asocia el recurso.
 
 **18.Alcance del metadato:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al metadato. 
 
