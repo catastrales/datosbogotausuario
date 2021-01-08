@@ -2,7 +2,7 @@
 
 ## ¿Cómo puedo descargar los recursos?
 
-Sigue cada uno de los pasos en ["Descarga un recurso"](https://datosbogota.gitbook.io/manual-usuario/interactua-con-los-datos./descarga-los-recursos)
+Sigue cada uno de los pasos en ["conoce el dato"](https://app.gitbook.com/@datosbogota/s/manual-usuario/~/drafts/-MQZAkIFNCkBOqkcnyLW/consulta-y-accede-a-los-datos/conoce-el-dato)
 
 ## ¿Cuál es el máximo tamaño de archivo que puedo subir**?**
 
@@ -14,7 +14,7 @@ Sigue cada uno de los pasos en ["Vincula una temática"](https://datosbogota.git
 
 ## **¿Puedo eliminar una vista?**
 
-Sigue cada uno de los pasos en ["Configura las vistas"](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/adiciona-un-recurso/configura-las-vistas)
+Sigue cada uno de los pasos en ["Configura vistas al recurso"](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/adiciona-un-recurso/configura-las-vistas)
 
 ## **¿Cómo cambio mi contraseña?**
 
@@ -26,7 +26,7 @@ Sigue los pasos descritos en ["¿Olvidaste tú contraseña?"](https://datosbogot
 
 ## ¿Cómo puedo agregar varios recursos?
 
-Realiza los pasos de ["Adiciona un recurso"](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/adiciona-un-recurso).
+Realiza los pasos de ["Gestiona tus recursos"](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/adiciona-un-recurso).
 
 ## ¿Qué tipos de formato puedo previsualizar?
 
@@ -34,7 +34,7 @@ Puedes previsualizar servicios de tipo ESRI Rest \(Map server y Feature layer\),
 
 ## ¿Dónde previsualizo los servicios y archivos?
 
-Sigue los pasos presentados en ["Previsualiza los recursos"](https://datosbogota.gitbook.io/manual-usuario/interactua-con-los-datos./previsualiza-los-recursos)
+Sigue los pasos presentados en ["Conoce el dato"](https://app.gitbook.com/@datosbogota/s/manual-usuario/~/drafts/-MQZAkIFNCkBOqkcnyLW/consulta-y-accede-a-los-datos/conoce-el-dato)
 
 ## **¿Qué son Datos Abiertos?**
 

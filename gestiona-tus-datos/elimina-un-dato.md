@@ -26,6 +26,6 @@ description: >-
 ![](../.gitbook/assets/image%20%2816%29.png)
 
 {% hint style="danger" %}
-_**Tenga en cuenta:** Al confirmar está acción no podrás recuperar el recurso que has borrado._
+_**Ten en cuenta:** Al confirmar está acción no podrás recuperar el recurso que has borrado._
 {% endhint %}
 

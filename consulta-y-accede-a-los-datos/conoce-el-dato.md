@@ -51,7 +51,7 @@ Agrega filtros con el botón ![](../.gitbook/assets/43.png)luego selecciona el a
 
 ![](../.gitbook/assets/44.png)
 
-y los valores que te interezan
+y los valores que te interesan
 
 ![](../.gitbook/assets/45.png)
 
@@ -65,7 +65,7 @@ También se pueden hacer búsquedas sobre la tabla ingresando la palabra que se 
 
 ![](../.gitbook/assets/46.png)
 
-**4.2.Descarga el recurso:** Da clic sobre el botón **"Descargar"** del recurso de tu preferencia y este guardara en la carpeta de descagas de tu equipo. ​
+**4.2.Descarga el recurso:** Da clic sobre el botón **"Descargar"** del recurso de tu preferencia y este guardara en la carpeta de descargas de tu equipo. ​
 
 ![](../.gitbook/assets/28.png)
 

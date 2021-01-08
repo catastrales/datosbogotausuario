@@ -6,7 +6,7 @@ description: >-
 
 # Deja tus comentarios
 
-**1.Ubica un dato:** Puedes acceder a los datos de las siguientes formas: Digitando el nombre del dato en la barra de búsqueda, ingresando por el botón "Datos", navegando por las temáticas o ingresando por "Entidades". En ["Interáctua con los datos"](https://datosbogota.gitbook.io/manual-usuario/interactua-con-los-datos.) puedes aprender cómo hacerlo.
+**1.Ubica un dato:** Puedes acceder a los datos de las siguientes formas: Digitando el nombre del dato en la barra de búsqueda, ingresando por el botón "Datos", navegando por las temáticas o ingresando por "Entidades". En ["Consulta  con los datos"](https://datosbogota.gitbook.io/manual-usuario/consulta-y-accede-a-los-datos/consulta-los-datos-1) puedes aprender cómo hacerlo.
 
 **2.Ubicate en la sección de comentarios:** Desplázate hacia la parte inferior del formulario, hasta encontrar la sección de comentarios.
 
@@ -21,7 +21,7 @@ _Puedes iniciar sesión con las redes sociales \(facebook, twitter\), con el cor
 {% endhint %}
 
 {% hint style="info" %}
-**Tenga en cuenta:** Para completar el registro debes dar clic en las casillas "No soy un robot",  términos de servicio y política de privacidad.
+**Ten en cuenta:** Para completar el registro debes dar clic en las casillas "No soy un robot",  términos de servicio y política de privacidad.
 {% endhint %}
 
 **4.Acepta las condiciones de uso:** Da clic sobre las casillas y luego da clic en el botón "Aceptar".
