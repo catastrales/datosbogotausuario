@@ -16,7 +16,5 @@ description: Crea tu nombre de usuario y tu contraseña con el primer inicio de 
 El nombre de usuario debe seguir la siguiente estructura: Primera letra del primer nombre, segundo nombre \(si lo tiene\), primer apellido completo, primera letra del segundo apellido \(si lo tiene\). _**Ejemplo:**_ **P**edro **G**onzalo **Jimenez** de **Quesada -** _**USUARIO:** pgjimenezq_
 {% endhint %}
 
-
-
 **3.Inicia sesión:** Sigue cada uno de los pasos indicados en [**"Inicia sesión"**](https://datosbogota.gitbook.io/manual-usuario/inicia-sesion)\*\*\*\*
 

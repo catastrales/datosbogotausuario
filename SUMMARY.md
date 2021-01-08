@@ -4,7 +4,7 @@
 
 ## Consulta y accede a los datos
 
-* [consulta los datos](consulta-y-accede-a-los-datos/consulta-los-datos-1.md)
+* [Consulta los datos](consulta-y-accede-a-los-datos/consulta-los-datos-1.md)
 * [Conoce el dato](consulta-y-accede-a-los-datos/conoce-el-dato.md)
 
 ## Gestiona tus datos
