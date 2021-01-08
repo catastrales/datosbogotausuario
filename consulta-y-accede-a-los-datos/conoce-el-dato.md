@@ -29,13 +29,37 @@ _**Tenga en cuenta:**_ El conteo de descargas y visitas de actualizará cada hor
 
 ![](../.gitbook/assets/27.png)
 
-El recurso se mostrara en el mapa de la ciudad si es geográfico y si es alfanumérico aparecerá una muestra de la información que se puede descargar.
+El recurso se mostrara en el mapa de la ciudad si es geográfico.
 
 ![](../.gitbook/assets/26.png)
 
 {% hint style="info" %}
 Puedes compartir el dato en las redes sociales twitter y Facebook, dando clic sobre cualquiera de sus iconos.                                              ![](../.gitbook/assets/29.png) 
 {% endhint %}
+
+Para los datos alfanuméricos en la pantalla de previsualización se puede observar la tabla con los datos.
+
+![](../.gitbook/assets/41.png)
+
+Además de pueden realizar filtros y búsquedas sobre los mismos.
+
+Agrega filtros con el botón ![](../.gitbook/assets/43.png)luego selecciona el atributo que deseas.  
+
+![](../.gitbook/assets/44.png)
+
+y los valores que te interezan
+
+![](../.gitbook/assets/45.png)
+
+Inmediatamente se actualizara la tabla con el filtro seleccionado.
+
+{% hint style="info" %}
+Se pueden realizar los filtros que necesites, solo debes adicionarlos a los ya existentes. 
+{% endhint %}
+
+También se pueden hacer búsquedas sobre la tabla ingresando la palabra que se busca:
+
+![](../.gitbook/assets/46.png)
 
 **4.2.Descarga el recurso:** Da clic sobre el botón **"Descargar"** del recurso de tu preferencia y este guardara en la carpeta de descagas de tu equipo. ​
 
