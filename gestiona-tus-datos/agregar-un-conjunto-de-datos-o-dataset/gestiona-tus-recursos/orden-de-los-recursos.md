@@ -49,7 +49,7 @@ description: Conoce el orden que deben guardar cada uno de los recursos publicad
 Utiliza alguno de estos formatos cada vez que necesites subir tablas. 
 
 {% hint style="danger" %}
-**Advertencia: No utilices formatos tales como: .XLS o .XLSX**
+**Advertencia: No utilices formatos tales como: .XLS .XLSX o .PDF**
 {% endhint %}
 {% endtab %}
 {% endtabs %}

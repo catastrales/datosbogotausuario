@@ -140,7 +140,7 @@ Se puede agregar la cantidad de enlaces que sean necesarios.
 
 ![](../../.gitbook/assets/image%20%28142%29.png)
 
-21.Agrega los recursos: Da clic en el botón para agregar los recursos que vas a disponer en datos abiertos.  
+**21.Agrega los recursos:** Da clic en el botón para agregar los recursos que vas a disponer en datos abiertos.  
 
 ![](../../.gitbook/assets/40.png)
 

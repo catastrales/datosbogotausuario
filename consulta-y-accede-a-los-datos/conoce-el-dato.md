@@ -41,6 +41,10 @@ Para los datos alfanuméricos en la pantalla de previsualización se puede obser
 
 ![](../.gitbook/assets/41.png)
 
+{% hint style="info" %}
+Solo se pueden visualizar hasta 65000 elementos, si el dato contiene mas debes realizar la descarga y buscar un software para su visualización.
+{% endhint %}
+
 Además de pueden realizar filtros y búsquedas sobre los mismos.
 
 Agrega filtros con el botón ![](../.gitbook/assets/43.png)luego selecciona el atributo que deseas.  
