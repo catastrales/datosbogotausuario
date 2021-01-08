@@ -6,8 +6,6 @@ description: >-
 
 # Construye el metadato
 
-
-
 **1.Ponle un nombre a tu dato:** Etiqueta tu conjunto de datos con una frase descriptiva que permita identificar la información que se está presentando.
 
 ![](../../.gitbook/assets/image%20%2870%29.png)
@@ -29,7 +27,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras ![](../../.gitbook/assets/39.png) en un campo, debes llenarlo de forma obligatoria.
+Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras ![](../../.gitbook/assets/39.png) en un campo, debes llenarlo de forma obligatoria, si queda uno de estos campos sin información el sistema no permitira gestionar los recursos.
 {% endhint %}
 
 **2.Construye la URL:** El sistema genera automáticamente la url cuando creas el titulo. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
@@ -108,11 +106,11 @@ Para el caso de imagen digital, imagen impresa, mapa digital y mapa impreso se h
 
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
-**14. Enlace a otros recursos:** Pegue la URL de los recursos adicionales que puedan complementar la información suministrada, como por ejemplo paginas en donde se puede ver ahondar en el tema y/o documentos que lo explican, como por ejemplo el diccionario de datos, el catalogo de objetos, el reporte de calidad detallado o el  ítem geográfico.  
+**14. Enlace a otros recursos:** Pegua la URL de los recursos adicionales que puedan complementar la información suministrada, como por ejemplo paginas en donde se puede ver ahondar en el tema y/o documentos que lo explican, por ejemplo el diccionario de datos, catalogo de objetos, reporte de calidad detallado o el ítem geográfico.  
 
 ![](../../.gitbook/assets/36.png)
 
-Se puede agregar la cantidad de enlaces 
+Se puede agregar la cantidad de enlaces que sean necesarios.
 
 **15.Alcance de la calidad de los datos:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al dato. 
 
