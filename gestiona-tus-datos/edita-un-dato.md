@@ -16,7 +16,7 @@ description: >-
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-**4.Edita el metadato:** Realiza los cambios que consideres pertinentes en el metadato y da clic en el botón _**"Editar Datos"**_
+**4.Edita:** Realiza los cambios que consideres pertinentes en el metadato y sus recursos y da clic en el botón _**"Editar Datos"**_
 
 ![](../.gitbook/assets/image%20%2837%29.png)
 

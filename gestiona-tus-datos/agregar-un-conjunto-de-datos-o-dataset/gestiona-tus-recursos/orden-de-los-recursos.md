@@ -18,9 +18,7 @@ description: Conoce el orden que deben guardar cada uno de los recursos publicad
 2.  Web Map Service \(WMS\)
 3.  Web Feature Service \(WFS\)
 
-**2.Mapas Bogotá:** Incluye el enlace a Mapas Bogotá, para esto debes obtener la URL que te da la opción [compartir](https://mapasbogota.gitbook.io/ayuda/compartir) de Mapas Bogotá
-
-    Mapas Bogotá 
+**2.Mapas Bogotá:** Incluye el enlace a Mapas Bogotá, para esto debes obtener la URL que te da la opción [comparte el mapa](https://mapasbogota.gitbook.io/ayuda/compartir) de Mapas Bogotá.
 
 **3.Agrega los formatos geográficos:** Después de incluir los servicios, siguen los formatos geográficos, por favor seguir el siguiente orden.
 
