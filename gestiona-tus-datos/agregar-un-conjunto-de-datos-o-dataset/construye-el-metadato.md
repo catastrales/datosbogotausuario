@@ -6,6 +6,8 @@ description: >-
 
 # Construye el metadato
 
+
+
 **1.Ponle un nombre a tu dato:** Etiqueta tu conjunto de datos con una frase descriptiva que permita identificar la información que se está presentando.
 
 ![](../../.gitbook/assets/image%20%2870%29.png)

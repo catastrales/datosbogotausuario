@@ -12,9 +12,9 @@ description: >-
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
-**3. Crea el metadato:** Sigue los pasos de [**"Construye el metadato"**](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/construye-el-metadato)\*\*\*\*
+**3. Crea el metadato:** Debes ****guardar la información del dato que se va a publicar. Sigue los pasos de [**"Construye el metadato"**](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/construye-el-metadato)\*\*\*\*
 
-**4.Adiciona un recurso:** Sigue los pasos de ****[**"Adiciona un recurso"**](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/adiciona-un-recurso)\*\*\*\*
+**4.Gestiona tus recursos:** Los recursos son las diferentes formas de visualización y descarga del dato que vas a disponer**.** Sigue los pasos de ****[**"Gestiona tus recursos"**](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/adiciona-un-recurso)\*\*\*\*
 
 **5.Finaliza:** Da clic en el botón **"Finalizar"** para que tu dato quede guardado y publicado.
 
