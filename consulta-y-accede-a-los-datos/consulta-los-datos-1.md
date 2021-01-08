@@ -1,7 +1,7 @@
 ---
 description: >-
-  ¿Deseas conocer cuantos datos abiertos existen en la ciudad?, ¿Como se accede
-  a ellos?, ¿Que entidades los disponen?, ¿cuales son los últimos datos
+  ¿Deseas conocer cuantos datos abiertos existen en la ciudad?, ¿Cómo se accede
+  a ellos?, ¿Qué entidades los disponen?, ¿Cuáles son los últimos datos
   actualizados?
 ---
 
