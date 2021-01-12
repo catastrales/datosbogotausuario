@@ -5,11 +5,11 @@ description: >-
   preferidos?.
 ---
 
-# Estadisticas
+# Estadísticas
 
 **1.Inicia sesión:** Sigue los pasos de iniciar sesión.
 
-**2. Ingresa al módulo de Estadísticas:** Da clic sobre el boton estadisticas que se encuentra ubicado en la parte superior izquierda de la pantalla.
+**2. Ingresa al módulo de Estadísticas:** Da clic sobre el botón estadísticas que se encuentra ubicado en la parte superior izquierda de la pantalla.
 
 ![](../.gitbook/assets/48.png)
 
@@ -17,7 +17,7 @@ description: >-
 Depende del rol en el que te encuentres administrador o editor \(Entidades\) se presentaran diferentes estadísticas.
 {% endhint %}
 
-**3. Identifica la estadistica**: Al lado izquierdo de la pantalla puedes escoger la estadistica que necesitas.
+**3. Identifica la estadistica**: Al lado izquierdo de la pantalla puedes escoger la estadística que necesitas.
 
 ![](../.gitbook/assets/49.png)
 
