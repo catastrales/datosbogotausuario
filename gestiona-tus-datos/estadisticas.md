@@ -17,5 +17,9 @@ description: >-
 Depende del rol en el que te encuentres administrador o editor \(Entidades\) se presentaran diferentes estadísticas.
 {% endhint %}
 
+**3. Busca la estadistica**: Al lado izquierdo de la pantalla puedes escoger la estadistica que necesitas.
+
+![](../.gitbook/assets/49.png)
+
 
 

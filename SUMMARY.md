@@ -26,6 +26,5 @@
 * [Elimina un dato](gestiona-tus-datos/elimina-un-dato.md)
 * [Publica información de versiones anteriores](gestiona-tus-datos/publica-informacion-de-versiones-anteriores.md)
 * [Estadisticas](gestiona-tus-datos/estadisticas.md)
-* [Deja tus comentarios](gestiona-tus-datos/deja-tus-comentarios.md)
 * [Preguntas frecuentes](gestiona-tus-datos/preguntas-frecuentes.md)
 
