@@ -39,11 +39,11 @@ Si perteneces a una entidad se vera así:
 
 ![](../.gitbook/assets/58.png)
 
- **4. revisa las estadísticas:** En cantidad de datos se muestra el número de conjuntos de datos que tiene cargada la entidad en el periodo de tiempo establecido. 
+ **4. Conoce las estadísticas:** En cantidad de datos se muestra el número de conjuntos de datos que tiene cargada la entidad en el periodo de tiempo establecido. 
 
 ![](../.gitbook/assets/54.png)
 
-El grafico de recursos por conjunto de datos muestra en cada línea un conjunto de datos y su ubicación depende de los recursos que tiene asociada.
+El grafico de recursos por conjunto de datos muestra en cada línea un conjunto de datos y su ubicación depende de los recursos que tiene asociados.
 
 ![](../.gitbook/assets/55.png)
 
@@ -53,7 +53,11 @@ El grafico de cantidad de recursos muestra la totalidad de recursos que tiene la
 {% endtab %}
 
 {% tab title="Estadísticas gráficas Consolidadas" %}
-**1.  Ingresa a las estadísticas gráficas Consolidadas:** Da clic en ![](../.gitbook/assets/57.png) puedes ver las estadísticas consolidadas con el total de datos y de recursos.
+{% hint style="danger" %}
+**Esta Grafica solo funciona para el administrador**
+{% endhint %}
+
+**1.  Ingresa a las estadísticas gráficas Consolidadas:** Da clic en ![](../.gitbook/assets/57.png)puedes ver las estadísticas consolidadas con el total de datos y de recursos.
 
 **2. Escoge la entidad de tu interés:** Si eres administrador puedes escoger cualquier entidad que tenga datos en la plataforma.
 
@@ -63,9 +67,17 @@ El grafico de cantidad de recursos muestra la totalidad de recursos que tiene la
 
 ![](../.gitbook/assets/53.png)
 
-**4. revisa las**
+ **4. Conoce las estadísticas:** En cantidad de datos se muestra el total de conjuntos de datos que tiene cargada la entidad en el periodo de tiempo establecido. 
+
+![](../.gitbook/assets/59.png)
+
+El grafico de recursos por conjunto de datos muestra en cada línea un conjunto de datos y su ubicación depende de la totalidad recursos que tiene asociados.
+
+![](../.gitbook/assets/60.png)
+
+El grafico de cantidad de recursos muestra la totalidad de recursos que tiene la entidad.
+
+![](../.gitbook/assets/61.png)
 {% endtab %}
 {% endtabs %}
-
-
 
