@@ -17,9 +17,55 @@ description: >-
 Depende del rol en el que te encuentres administrador o editor \(Entidades\) se presentaran diferentes estadísticas.
 {% endhint %}
 
-**3. Busca la estadistica**: Al lado izquierdo de la pantalla puedes escoger la estadistica que necesitas.
+**3. Identifica la estadistica**: Al lado izquierdo de la pantalla puedes escoger la estadistica que necesitas.
 
 ![](../.gitbook/assets/49.png)
+
+{% tabs %}
+{% tab title="Estadísticas gráficas Individuales" %}
+**1.  Ingresa a las estadísticas gráficas Individuales:** Da clic en ![](../.gitbook/assets/50.png) puedes ver las estadísticas individuales por cantidad de datos, recursos por conjunto de datos y cantidad de recurso.
+
+**2. Escoge la entidad de tu interés:** Si eres administrador puedes escoger cualquier entidad que tenga datos en la plataforma. 
+
+Si perteneces a una entidad solo se verán tus datos.
+
+![](../.gitbook/assets/51.png)
+
+**3. Revisa el rango de tiempo:** Para el administrador se pueden escoger periodos de tiempo específicos para realizar la estadística, puede ser por horas, días, meses o años.   
+
+![](../.gitbook/assets/53.png)
+
+Si perteneces a una entidad se vera así:
+
+![](../.gitbook/assets/58.png)
+
+ **4. revisa las estadísticas:** En cantidad de datos se muestra el número de conjuntos de datos que tiene cargada la entidad en el periodo de tiempo establecido. 
+
+![](../.gitbook/assets/54.png)
+
+El grafico de recursos por conjunto de datos muestra en cada línea un conjunto de datos y su ubicación depende de los recursos que tiene asociada.
+
+![](../.gitbook/assets/55.png)
+
+El grafico de cantidad de recursos muestra la totalidad de recursos que tiene la entidad.
+
+![](../.gitbook/assets/56.png)
+{% endtab %}
+
+{% tab title="Estadísticas gráficas Consolidadas" %}
+**1.  Ingresa a las estadísticas gráficas Consolidadas:** Da clic en ![](../.gitbook/assets/57.png) puedes ver las estadísticas consolidadas con el total de datos y de recursos.
+
+**2. Escoge la entidad de tu interés:** Si eres administrador puedes escoger cualquier entidad que tenga datos en la plataforma.
+
+![](../.gitbook/assets/51.png)
+
+**3. Revisa el rango de tiempo:** Se pueden escoger periodos de tiempo específicos para realizar la estadística, puede ser por horas, días, meses o años.   
+
+![](../.gitbook/assets/53.png)
+
+**4. revisa las**
+{% endtab %}
+{% endtabs %}
 
 
 

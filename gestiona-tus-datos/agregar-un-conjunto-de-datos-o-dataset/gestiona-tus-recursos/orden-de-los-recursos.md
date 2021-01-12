@@ -6,8 +6,6 @@ description: Conoce el orden que deben guardar cada uno de los recursos publicad
 
 {% tabs %}
 {% tab title="Recursos Geográficos" %}
-###                               **O**rden y nombres para recursos.
-
 {% hint style="warning" %}
 **Nota:** Si el dato es diferente a uno de tipo geográfico suba los archivos o URL, en el orden que considere necesario, de lo contrario use el orden que se define enseguida.
 {% endhint %}
@@ -40,8 +38,6 @@ description: Conoce el orden que deben guardar cada uno de los recursos publicad
 {% endtab %}
 
 {% tab title="Otros Recursos" %}
-###                                                        ****Otros recursos.
-
 **Comma-Separated Values \(CSV\) y OpenDocument Spreadsheet \(ODS\)**
 
 Utiliza alguno de estos formatos cada vez que necesites subir tablas. 
