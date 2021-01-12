@@ -1,6 +1,6 @@
 ---
 description: >-
-  Quieres conocer ¿Cuántos datos y recursos hay en la plataforma?,¿Cuáles son
+  Quieres conocer ¿Cuántos datos y recursos hay en la plataforma?, ¿Cuáles son
   las versiones de datos por semana?, ¿Cuáles son los más editados y los
   preferidos?.
 ---
@@ -9,9 +9,13 @@ description: >-
 
 **1.Inicia sesión:** Sigue los pasos de iniciar sesión.
 
-2. Ingresa al modulo de Estadísticas ubicado en la parte superior izquierda.
+**2. Ingresa al módulo de Estadísticas:** Da clic sobre el boton estadisticas que se encuentra ubicado en la parte superior izquierda de la pantalla.
 
 ![](../.gitbook/assets/48.png)
+
+{% hint style="info" %}
+Depende del rol en el que te encuentres administrador o editor \(Entidades\) se presentaran diferentes estadísticas.
+{% endhint %}
 
 
 
