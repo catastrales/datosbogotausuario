@@ -13,29 +13,15 @@ description: >-
 
 ![](../.gitbook/assets/48.png)
 
-{% hint style="info" %}
-Depende del rol en el que te encuentres administrador o editor \(Entidades\) se presentaran diferentes estadísticas.
-{% endhint %}
-
 **3. Identifica la estadistica**: Al lado izquierdo de la pantalla puedes escoger la estadística que necesitas.
 
-![](../.gitbook/assets/49.png)
+![](../.gitbook/assets/68.png)
 
 {% tabs %}
 {% tab title="Estadísticas gráficas Individuales" %}
 **1.  Ingresa a las estadísticas gráficas Individuales:** Da clic en ![](../.gitbook/assets/50.png) puedes ver las estadísticas individuales por cantidad de datos, recursos por conjunto de datos y cantidad de recurso.
 
-**2. Escoge la entidad de tu interés:** Si eres administrador puedes escoger cualquier entidad que tenga datos en la plataforma. 
-
-Si perteneces a una entidad solo se verán tus datos.
-
-![](../.gitbook/assets/51.png)
-
-**3. Revisa el rango de tiempo:** Para el administrador se pueden escoger periodos de tiempo específicos para realizar la estadística, puede ser por horas, días, meses o años.   
-
-![](../.gitbook/assets/53.png)
-
-Si perteneces a una entidad se vera así:
+**2. Revisa el rango de tiempo:** Para el administrador se pueden escoger periodos de tiempo específicos para realizar la estadística, puede ser por horas, días, meses o años.   
 
 ![](../.gitbook/assets/58.png)
 
@@ -52,32 +38,22 @@ El grafico de cantidad de recursos muestra la totalidad de recursos que tiene la
 ![](../.gitbook/assets/56.png)
 {% endtab %}
 
-{% tab title="Estadísticas gráficas Consolidadas" %}
-{% hint style="danger" %}
-**Esta Grafica solo funciona para el administrador**
-{% endhint %}
+{% tab title="Versiones de Datos por Semana" %}
+**1.  Ingresa a Versiones de Datos por Semana:** Da clic en ![](../.gitbook/assets/62.png) puedes ver cuantas versiones de datos o datos nuevos se han dispuesto en la plataforma semana a semana desde que tu entidad incluyo su primer dato.
 
-**1.  Ingresa a las estadísticas gráficas Consolidadas:** Da clic en ![](../.gitbook/assets/57.png)puedes ver las estadísticas consolidadas con el total de datos y de recursos.
+![](../.gitbook/assets/69.png)
+{% endtab %}
 
-**2. Escoge la entidad de tu interés:** Si eres administrador puedes escoger cualquier entidad que tenga datos en la plataforma.
+{% tab title="Datos más editados" %}
+**1.  Ingresa a las datos más editados:** Da clic en ![](../.gitbook/assets/64.png)puedes ver los datos con su número de ediciones en orden descendente. 
 
-![](../.gitbook/assets/51.png)
+![](../.gitbook/assets/65.png)
+{% endtab %}
 
-**3. Revisa el rango de tiempo:** Se pueden escoger periodos de tiempo específicos para realizar la estadística, puede ser por horas, días, meses o años.   
+{% tab title="Tags preferidos" %}
+**1.  Ingresa a las Tags preferidos:** Da clic en ![](../.gitbook/assets/66.png)puedes ver las etiquetas mas utilizadas para realizar la busqueda de tus datos y el número de datos asociados a ellas.
 
-![](../.gitbook/assets/53.png)
-
- **4. Conoce las estadísticas:** En cantidad de datos se muestra el total de conjuntos de datos que tiene cargada la entidad en el periodo de tiempo establecido. 
-
-![](../.gitbook/assets/59.png)
-
-El grafico de recursos por conjunto de datos muestra en cada línea un conjunto de datos y su ubicación depende de la totalidad recursos que tiene asociados.
-
-![](../.gitbook/assets/60.png)
-
-El grafico de cantidad de recursos muestra la totalidad de recursos que tiene la entidad.
-
-![](../.gitbook/assets/61.png)
+![](../.gitbook/assets/70.png)
 {% endtab %}
 {% endtabs %}
 
