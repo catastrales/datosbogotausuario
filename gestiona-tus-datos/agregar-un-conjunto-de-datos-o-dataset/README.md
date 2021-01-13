@@ -20,7 +20,3 @@ description: >-
 
 ![](../../.gitbook/assets/image%20%28148%29.png)
 
-\*\*\*\*
-
-
-

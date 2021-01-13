@@ -9,7 +9,7 @@
 
 ## Gestiona tus datos
 
-* [Inicia sesión](gestiona-tus-datos/inicia-sesion/README.md)
+* [Iniciar sesión](gestiona-tus-datos/inicia-sesion/README.md)
   * [Primer inicio de sesión](gestiona-tus-datos/inicia-sesion/primer-inicio-de-sesion.md)
   * [Cambia tú contraseña](gestiona-tus-datos/inicia-sesion/cambia-tu-contrasena.md)
   * [¿Olvidaste tú contraseña?](gestiona-tus-datos/inicia-sesion/olvidaste-tu-contrasena.md)

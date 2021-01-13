@@ -27,7 +27,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras ![](../../.gitbook/assets/39.png) en un campo, debes llenarlo de forma obligatoria, si queda uno de estos campos sin información el sistema no permitira gestionar los recursos.
+Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras ![](../../.gitbook/assets/39.png) en un campo, debes llenarlo de forma obligatoria, si queda alguno sin información el sistema no permitira gestionar los recursos.
 {% endhint %}
 
 **2.Construye la URL:** El sistema genera automáticamente la url cuando creas el titulo. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
@@ -42,7 +42,7 @@ _**Recuerda:** el nombre que pongas a la url debe ser un texto corto que identif
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-**4.Selecciona tu entidad:** Da clic sobre la lista desplegable **"Entidad"** y selecciona tú Entidad.
+**4.Selecciona tu entidad:** Da clic sobre la lista desplegable **"Entidad".**
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
@@ -62,7 +62,7 @@ Selecciona **"Público**" ****cuándo estés seguro de realizar la publicación 
 
 ![](../../.gitbook/assets/34.png)
 
-    **Fecha:** Digita la fecha teniendo en cuenta el formato ****AAAA-MM-DD
+    **Fecha:** Digita la fecha teniendo en cuenta el formato ****AAAA-MM-DD.
 
 ![](../../.gitbook/assets/image%20%2856%29.png)
 

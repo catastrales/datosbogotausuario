@@ -11,7 +11,7 @@ description: >-
 
 ![](../.gitbook/assets/23.png)
 
-**2.Selecciona un dato:** Da clic sobre el nombre del dato de tu interes para acceder a el**.**
+**2.Selecciona un dato:** Da clic sobre el nombre del dato de tu interés para acceder a el**.**
 
 ![](../.gitbook/assets/24.png)
 
@@ -20,7 +20,7 @@ description: >-
 ![](../.gitbook/assets/25.png)
 
 {% hint style="success" %}
-_**Tenga en cuenta:**_ El conteo de descargas y visitas de actualizará cada hora
+_**Ten en cuenta:**_ El conteo de descargas y visitas de actualizará cada hora.
 {% endhint %}
 
 **4.Visualiza y descarga recursos:** Los recursos son dispuestos en diferentes formatos de visualización y descarga en formatos abiertos, que no requieren programas licenciados para su manipulación. 
@@ -61,7 +61,7 @@ Inmediatamente se actualizara la tabla con el filtro seleccionado.
 Se pueden realizar los filtros que necesites, solo debes adicionarlos a los ya existentes. 
 {% endhint %}
 
-También se pueden hacer búsquedas sobre la tabla ingresando la palabra que se busca:
+También se pueden hacer búsquedas sobre la tabla ingresando la palabra que deseas:
 
 ![](../.gitbook/assets/46.png)
 

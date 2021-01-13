@@ -23,7 +23,7 @@ description: >-
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
 {% hint style="warning" %}
-_**Tenga en cuenta:** La contraseña debe tener números, caracteres especiales, letras mayúsculas y minúsculas. Se sugiere que la longitud sea de 10 caracteres._
+_**Ten en cuenta:** La contraseña debe tener números, caracteres especiales, letras mayúsculas y minúsculas. Se sugiere que la longitud sea de 10 caracteres._
 {% endhint %}
 
 **4.Actualiza tu perfil:** Para que los cambios que realices se hagan efectivos, debes dar clic en el botón "Actualizar perfil".

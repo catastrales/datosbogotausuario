@@ -4,7 +4,7 @@ description: >-
   los datos que has creado en tu entidad.
 ---
 
-# Inicia sesión
+# Iniciar sesión
 
 **1.Selecciona "Iniciar sesión":** Da clic en el botón **"Iniciar sesión para entidades"**, ubicado en la parte superior derecha de la pantalla.
 
