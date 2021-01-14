@@ -1,7 +1,7 @@
 ---
 description: >-
-  Si llegaste  a este lugar es por que olvidaste tu contraseña, sigue los pasos
-  indicados en esta sección para poderla recuperarla.
+  Si olvidaste tu contraseña, sigue los pasos indicados en esta sección para
+  poderla recuperarla.
 ---
 
 # ¿Olvidaste tú contraseña?

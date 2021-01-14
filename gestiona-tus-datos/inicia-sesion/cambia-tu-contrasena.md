@@ -10,7 +10,7 @@ description: >-
 
 ![](../../.gitbook/assets/32.png)
 
-**2. Ingresa a configuraciones:** Da clic sobre tu nombre de usuario, ubicado en la parte superior izquierda de la página.
+**2. Ingresa a configuración:** Da clic sobre tu nombre de usuario, ubicado en la parte superior izquierda de la página.
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
@@ -18,7 +18,7 @@ description: >-
 
 ![](../../.gitbook/assets/image%20%28110%29.png)
 
-**4.Cambia tu contraseña:** En la parte inferior encontrarás la sección "cambia tu contraseña". Digita la contraseña anterior, luego la nueva contraseña y vuelve a confirmar la nueva contraseña. Por último da clic en ![](../../.gitbook/assets/actualizar-perfil.JPG) 
+**4. Cambia tu contraseña:** En la parte inferior encontrarás la sección "cambia tu contraseña". Digita la contraseña anterior, luego la nueva contraseña y vuelve a confirmar la nueva contraseña. Por último da clic en ![](../../.gitbook/assets/actualizar-perfil.JPG) 
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
@@ -26,7 +26,7 @@ description: >-
 _**Ten en cuenta:** La contraseña debe tener números, caracteres especiales, letras mayúsculas y minúsculas. Se sugiere que la longitud sea de 10 caracteres._
 {% endhint %}
 
-**4.Actualiza tu perfil:** Para que los cambios que realices se hagan efectivos, debes dar clic en el botón "Actualizar perfil".
+**5. Actualiza tu perfil:** Para que los cambios que realices se hagan efectivos, debes dar clic en el botón "Actualizar perfil".
 
 ![](../../.gitbook/assets/image%20%28136%29.png)
 

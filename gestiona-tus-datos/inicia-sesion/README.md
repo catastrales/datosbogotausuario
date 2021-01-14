@@ -10,7 +10,7 @@ description: >-
 
 ![](../../.gitbook/assets/image%20%28126%29.png)
 
-**2. Logueate:** Digita tu usuario y contraseña, enseguida da clic en el botón **"Iniciar sesión".**
+**2. Ingresa:** Digita tu usuario y contraseña, enseguida da clic en el botón **"Iniciar sesión".**
 
 ![](../../.gitbook/assets/32.png)
 
@@ -23,7 +23,7 @@ Para ver la clave que estas digitando, habilita "**Mostrar clave**" o en la barr
 {% endhint %}
 
 {% hint style="success" %}
-_**El usuario y contraseña serán enviados a tu correo desde la cuenta ideca@catastrobogota.gov.co. La contraseña debe ser cambiada con el primer ingreso a la plataforma de datos abiertos bogotá, sigue los pasos en**_ [_**"cambia tú contraseña"**_](https://datosbogota.gitbook.io/manual-usuario/inicia-sesion/cambia-tu-contrasena)_\*\*\*\*_
+_**El usuario y contraseña serán enviados a tu correo desde la cuenta ideca@catastrobogota.gov.co. La contraseña debe ser cambiada con el primer ingreso a la plataforma de datos abiertos Bogotá, sigue los pasos en**_ [_**"cambia tú contraseña"**_](https://datosbogota.gitbook.io/manual-usuario/inicia-sesion/cambia-tu-contrasena)_\*\*\*\*_
 {% endhint %}
 
 \*\*\*\*
