@@ -2,7 +2,7 @@
 description: >-
   Quieres conocer ¿Cuántos datos y recursos hay en la plataforma?, ¿Cuáles son
   las versiones de datos por semana?, ¿Cuáles son los más editados y los
-  preferidos?.
+  preferidos?
 ---
 
 # Estadísticas
@@ -13,7 +13,7 @@ description: >-
 
 ![](../.gitbook/assets/48.png)
 
-**3. Identifica la estadistica**: Al lado izquierdo de la pantalla puedes escoger la estadística que necesitas.
+**3. Identifica la estadística**: Al lado izquierdo de la pantalla puedes escoger la estadística que necesitas.
 
 ![](../.gitbook/assets/68.png)
 
