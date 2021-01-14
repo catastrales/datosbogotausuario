@@ -30,7 +30,7 @@ description: >-
 Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras ![](../../.gitbook/assets/39.png) en un campo, debes llenarlo de forma obligatoria, si queda alguno sin información el sistema no permitira gestionar los recursos.
 {% endhint %}
 
-**2.Construye la URL:** El sistema genera automáticamente la url cuando creas el título. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
+**2. Construye la URL:** El sistema genera automáticamente la url cuando creas el título. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
 
@@ -38,11 +38,11 @@ Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras 
 _**Recuerda:** el nombre que pongas a la url debe ser un texto corto que identifique el dato._
 {% endhint %}
 
-**3.Describe tu conjunto de datos:** Digita una corta descripción acerca de los datos que se están incluyendo en la plataforma, puedes incluir el alcance, campo de aplicación y demás información que oriente al usuario sobre el tipo de información que podrá obtener al explorar este dato.
+**3. Describe tu conjunto de datos:** Digita una corta descripción acerca de los datos que se están incluyendo en la plataforma, puedes incluir el alcance, campo de aplicación y demás información que oriente al usuario sobre el tipo de información que podrá obtener al explorar este dato.
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-**4.Selecciona tu entidad:** Da clic sobre la lista desplegable **"Entidad".**
+**4. Selecciona tu entidad:** Da clic sobre la lista desplegable **"Entidad".**
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
@@ -50,7 +50,7 @@ _**Recuerda:** el nombre que pongas a la url debe ser un texto corto que identif
 Solo aparecerán en la lista las entidades en las que está inscrito el usuario que realiza la edición de los datos.
 {% endhint %}
 
-**5.Elige la visibilidad del dato:** Da clic sobre la lista desplegable "Visibilidad" y selecciona entre "**público"** o "**privado"**. 
+**5. Elige la visibilidad del dato:** Da clic sobre la lista desplegable "Visibilidad" y selecciona entre "**público"** o "**privado"**. 
 
 ![](../../.gitbook/assets/image%20%28141%29.png)
 

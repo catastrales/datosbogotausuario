@@ -6,7 +6,7 @@ description: >-
 
 # Configura vistas al recurso
 
-**1.Edita un recurso:** ejecuta hasta el **paso 4** "Consulta los recursos" de ["Edita un recurso"](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/edita-un-recurso). 
+**1.Edita un recurso:** ejecuta hasta el **paso 4** "**Consulta los recursos**" de ["Edita un recurso"](https://datosbogota.gitbook.io/manual-usuario/agregar-un-conjunto-de-datos-o-dataset/edita-un-recurso). 
 
 ![](../../../.gitbook/assets/image%20%28138%29.png)
 
@@ -18,7 +18,7 @@ description: >-
 
 ![](../../../.gitbook/assets/image%20%28150%29.png)
 
-**4.Configura la vista:** Da clic sobre la vista que vas a eliminar y da clic en el botón "Borrar"
+**4.Configura la vista:** Da clic sobre la vista que vas a eliminar y da clic en el botón "**Borrar**"
 
 ![](../../../.gitbook/assets/image%20%28140%29.png)
 
@@ -28,7 +28,7 @@ description: >-
 Si va a publicar un Mapserver debe dejar _**únicamente**_ la vista "_ArcGIS MapServer Service_".        ****Si va a publicar un Featura layer  dejar _**únicamente**_ la vista "_ArcGIS FeatureServer Service_".
 {% endhint %}
 
-**5.Verifica la vista:** Da clic en el botón _"Ver recurso"_ y verifica que el servicio se esta previsualizando
+**5.Verifica la vista:** Da clic en el botón _"**Ver recurso**"_ y verifica que el servicio se esta previsualizando
 
 ![](../../../.gitbook/assets/image%20%2845%29.png)
 

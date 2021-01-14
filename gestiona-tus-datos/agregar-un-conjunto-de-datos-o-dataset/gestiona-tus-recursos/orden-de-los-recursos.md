@@ -16,9 +16,9 @@ description: Conoce el orden que deben guardar cada uno de los recursos publicad
 2.  Web Map Service \(WMS\)
 3.  Web Feature Service \(WFS\)
 
-**2.Mapas Bogotá:** Incluye el enlace a Mapas Bogotá, para esto debes obtener la URL que te da la opción [comparte el mapa](https://mapasbogota.gitbook.io/ayuda/compartir) de Mapas Bogotá.
+**2. Mapas Bogotá:** Incluye el enlace a Mapas Bogotá, para esto debes obtener la URL que te da la opción [comparte el mapa](https://mapasbogota.gitbook.io/ayuda/compartir) de Mapas Bogotá.
 
-**3.Agrega los formatos geográficos:** Después de incluir los servicios, siguen los formatos geográficos, por favor seguir el siguiente orden.
+**3. Agrega los formatos geográficos:** Después de incluir los servicios, siguen los formatos geográficos, por favor seguir el siguiente orden.
 
 1. GeoPackage \(GPKG\)
 2. Geo JavaScript Object Notation \(GEOJSON\)
@@ -31,7 +31,7 @@ description: Conoce el orden que deben guardar cada uno de los recursos publicad
 1. PostgreSQL \(PostgreSQL\)
 2. GeoDataBase \(GDB\)
 
-**5.Añade archivos planos:** Por último sube los archivos planos. **Ej: .CSV**
+**5. Añade archivos planos:** Por último, sube los archivos planos. **Ej: .CSV**
 
 1. Comma-Separated Values \(CSV\)
 2. OpenDocument Spreadsheet \(ODS\)
@@ -47,12 +47,4 @@ Utiliza alguno de estos formatos cada vez que necesites subir tablas.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
-
-
 
