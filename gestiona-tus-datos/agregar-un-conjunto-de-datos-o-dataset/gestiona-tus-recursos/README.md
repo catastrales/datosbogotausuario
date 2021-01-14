@@ -1,5 +1,5 @@
 ---
-description: Puedes adicionar recursos provenientes de archivos o servicios
+description: Puedes adicionar recursos provenientes de archivos o servicios.
 ---
 
 # Gestiona tus recursos

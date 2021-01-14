@@ -30,7 +30,7 @@ description: >-
 Cuando encuentres un asterisco ![](../../.gitbook/assets/38.png) o las palabras ![](../../.gitbook/assets/39.png) en un campo, debes llenarlo de forma obligatoria, si queda alguno sin información el sistema no permitira gestionar los recursos.
 {% endhint %}
 
-**2.Construye la URL:** El sistema genera automáticamente la url cuando creas el titulo. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
+**2.Construye la URL:** El sistema genera automáticamente la url cuando creas el título. Sin embargo, tienes la opción de editarla dando clic en el botón "Edit".
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
 
@@ -47,7 +47,7 @@ _**Recuerda:** el nombre que pongas a la url debe ser un texto corto que identif
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
 {% hint style="info" %}
-Solo aparecerán en la lista las entidades en las que esta inscrito el usuario que realiza la edición de los datos.
+Solo aparecerán en la lista las entidades en las que está inscrito el usuario que realiza la edición de los datos.
 {% endhint %}
 
 **5.Elige la visibilidad del dato:** Da clic sobre la lista desplegable "Visibilidad" y selecciona entre "**público"** o "**privado"**. 
@@ -71,7 +71,7 @@ Selecciona **"Público**" ****cuándo estés seguro de realizar la publicación 
 ![](../../.gitbook/assets/image%20%2843%29.png)
 
 {% hint style="success" %}
-Para el caso de imagen digital, imagen impresa, mapa digital y mapa impreso se habilitaran los siguientes campos:
+Para el caso de imagen digital, imagen impresa, mapa digital y mapa impreso se habilitarán los siguientes campos:
 
 * **Para el caso de  Tipo de representación espacial:** Selecciona cuál fue el método utilizado para representar espacialmente el recurso \(raster o vector\).                           ![](../../.gitbook/assets/35.png)
 * **Resolución espacial:** Digita en la caja de texto la escala, resolución o nivel de detalle de los datos del recurso.![](../../.gitbook/assets/image%20%282%29.png)
@@ -90,57 +90,59 @@ Para el caso de imagen digital, imagen impresa, mapa digital y mapa impreso se h
 **Se sugieren esta cobertura:** _{"type":"Polygon","coordinates":\[\[\[-74.267032,4.514065\],\[-74.267032,4.828575\],\[-73.969597,4.828575\],\[-73.969597,4.514065\],\[-74.267032,4.514065\]\]\]}_
 {% endhint %}
 
-**10.Frecuencia de actualización:** Da clic en la lista desplegable y selecciona el periodo en los cuales realizas la actualización del recurso.
+**10. Frecuencia de actualización:** Da clic en la lista desplegable y selecciona el periodo en los cuales realizas la actualización del recurso.
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
-**11.Usa etiquetas:**  Destaca aspectos del contenido no proporcionados por el título. Digita una palabra en el campo de texto "Etiquetas" y digita la tecla "coma" para agregar otra etiqueta.
+**11. Usa etiquetas:**  Destaca aspectos del contenido no proporcionados por el título. Digita una palabra en el campo de texto "Etiquetas" y digita la tecla "coma" para agregar otra etiqueta.
 
 ![](../../.gitbook/assets/image%20%2893%29.png)
 
-**12.Selecciona una licencia:** Da clic sobre la lista desplegable **"Licencia"** y luego da clic en el tipo de licencia que le darás al dato que vas a publicar.
+**12. Selecciona una licencia:** Da clic sobre la lista desplegable **"Licencia"** y luego da clic en el tipo de licencia que le darás al dato que vas a publicar.
 
 ![](../../.gitbook/assets/image%20%28118%29.png)
 
-**13.Idioma:** Da clic en la lista desplegable y selecciona el idioma en los cuales se encuentran los textos que aparecen en el recurso.
+**13. Idioma:** Da clic en la lista desplegable y selecciona el idioma en los cuales se encuentran los textos que aparecen en el recurso.
 
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
-**14. Enlace a otros recursos:** Pegua la URL de los recursos adicionales que puedan complementar la información suministrada, como por ejemplo paginas en donde se puede ver ahondar en el tema y/o documentos que lo explican, por ejemplo el diccionario de datos, catalogo de objetos, reporte de calidad detallado o el ítem geográfico.  
+**14. Enlace a otros recursos:** Anota la URL de los recursos adicionales que puedan complementar la información suministrada, como por ejemplo páginas en donde se puede ver ahondar en el tema y/o documentos que lo explican, por ejemplo el diccionario de datos, catálogo de objetos, reporte de calidad detallado o el ítem geográfico.  
 
 ![](../../.gitbook/assets/36.png)
 
-Se puede agregar la cantidad de enlaces que sean necesarios.
+{% hint style="info" %}
+Se pueden agregar la cantidad de enlaces que sean necesarios.
+{% endhint %}
 
-**15.Alcance de la calidad de los datos:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al dato. 
+**15. Alcance de la calidad de los datos:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al dato. 
 
 ![](../../.gitbook/assets/image%20%28114%29.png)
 
-**16.Reporte de la calidad:** Digita en la caja texto una breve descripción de los elementos de calidad que evaluaste en el recurso, y el significado del resultado obtenido.
+**16. Reporte de la calidad:** Digita en la caja texto una breve descripción de los elementos de calidad que evaluaste en el recurso, y el significado del resultado obtenido.
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
-**17.Distribuidor:** Da clic en la lista desplegable y selecciona la entidad responsable de distribuir el recurso.
+**17. Distribuidor:** Da clic en la lista desplegable y selecciona la entidad responsable de distribuir el recurso.
 
 ![](../../.gitbook/assets/image%20%28122%29.png)
 
-**18.Temática principal:** Da clic en la lista desplegable y selecciona la temática principal con el que se asocia el recurso.
+**18. Temática principal:** Da clic en la lista desplegable y selecciona la temática principal con el que se asocia el recurso.
 
 ![](../../.gitbook/assets/37.png)
 
-**18.Alcance del metadato:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al metadato. 
+**19. Alcance del metadato:** Da clic en la lista desplegable y selecciona el nivel de información sobre el cual se realiza calidad al metadato. 
 
 ![](../../.gitbook/assets/image%20%28114%29.png)
 
-**19.Tipo de responsable del metadato:** Da clic en la lista desplegable y selecciona qué función tiene el responsable sobre el metadato.
+**20. Tipo de responsable del metadato:** Da clic en la lista desplegable y selecciona qué función tiene el responsable sobre el metadato.
 
 ![](../../.gitbook/assets/image%20%28115%29.png)
 
-**20.Responsable del Metadato:** Da clic sobre la lista desplegable y selecciona ****quién fue su autor o quien será su custodio.
+**21. Responsable del Metadato:** Da clic sobre la lista desplegable y selecciona ****quién fue su autor o quien será su custodio.
 
 ![](../../.gitbook/assets/image%20%28142%29.png)
 
-**21.Agrega los recursos:** Da clic en el botón para agregar los recursos que vas a disponer en datos abiertos.  
+**22. Agrega los recursos:** Da clic en el botón para agregar los recursos que vas a disponer en datos abiertos.  
 
 ![](../../.gitbook/assets/40.png)
 
