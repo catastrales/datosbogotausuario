@@ -1,13 +1,13 @@
 ---
 description: >-
-  ¿Deseas conocer cuantos datos abiertos existen en la ciudad?, ¿Cómo se accede
+  ¿Deseas conocer cuántos datos abiertos existen en la ciudad?, ¿Cómo se accede
   a ellos?, ¿Qué entidades los disponen?, ¿Cuáles son los últimos datos
   actualizados?
 ---
 
 # Consulta los datos
 
- **1.Identifica las formas de acceso a los datos:** Puedes acceder a un dato desde las opciones: barra de búsqueda, Datos, Entidades o en una de las 27 temáticas disponibles.
+**1. Identifica las formas de acceso a los datos:** Puedes acceder a un dato desde las opciones: Barra de búsqueda, Datos, Entidades o en una de las 27 temáticas disponibles.
 
 ![](../.gitbook/assets/1.png)
 
