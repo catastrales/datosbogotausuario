@@ -20,7 +20,7 @@ description: >-
 ![](../.gitbook/assets/25.png)
 
 {% hint style="success" %}
-_**Ten en cuenta:**_ El conteo de descargas y visitas de actualizará cada hora.
+_**Ten en cuenta:**_ El conteo de descargas y visitas se actualizará cada hora.
 {% endhint %}
 
 **4. Visualiza y descarga recursos:** Los recursos son dispuestos en diferentes formatos de visualización y descarga en formatos abiertos, que no requieren programas licenciados para su manipulación. 
