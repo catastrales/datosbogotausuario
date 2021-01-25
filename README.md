@@ -5,7 +5,7 @@ description: >-
   crear y actualizar sus datos.
 ---
 
-# Bienvenidos a la plataforma de datos abiertos Bogotá
+# Bienvenidos a la Plataforma de Datos Abiertos Bogotá
 
 
 

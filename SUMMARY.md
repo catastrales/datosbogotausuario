@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenidos a la plataforma de datos abiertos Bogotá](README.md)
+* [Bienvenidos a la Plataforma de Datos Abiertos Bogotá](README.md)
 
 ## Consulta y accede a los datos
 
